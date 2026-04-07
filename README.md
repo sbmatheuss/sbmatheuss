@@ -15,11 +15,8 @@ Full-Stack Software Developer dedicated to building scalable products and high-p
 
 <p align="left">
   <a href="https://github.com/sbmatheuss">
-  
     <img src="https://img.shields.io/badge/GitHub-sbmatheuss-181717?style=for-the-badge&logo=github" />
   </a>
-  
-  
 </p>
 
 ---
